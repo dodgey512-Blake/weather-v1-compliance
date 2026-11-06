@@ -1,0 +1,44 @@
+{
+  "productName": "V1.0 合规 天气App",
+  "version": "1.0.0-compliance.1",
+  "date": "2026-11-07",
+  "status": "compliance-demo",
+  "storeRelease": false,
+  "iosNative": false,
+  "dataMode": "NWS-only",
+  "openMeteoFreeApiEnabled": false,
+  "aqiLicensedSourceConnected": false,
+  "runningDecisionIncompleteWhenAqiUnavailable": true,
+  "manualSearchScope": "4 preset U.S. cities",
+  "locationPrecisionDegrees": 0.01,
+  "backgroundLocation": false,
+  "backgroundWeatherMonitoring": false,
+  "rawCoordinatesPersisted": false,
+  "realBilling": false,
+  "realAdvertising": false,
+  "androidApplicationId": "com.weatherpersonal.app.compliance",
+  "signing": "debug",
+  "links": {
+    "demo": "https://dodgey512-blake.github.io/weather-v1-compliance/",
+    "vis": "https://dodgey512-blake.github.io/weather-v1-compliance/vis-2/",
+    "feishu": "https://my.feishu.cn/docx/VIaodnwZRoOaWJxuWO3cm3Iwnbh",
+    "audit": "https://dodgey512-blake.github.io/weather-v1-compliance/audit.html"
+  },
+  "checks": {
+    "data": 35,
+    "ui": 21,
+    "visBrowser": 11,
+    "npmProductionAuditVulnerabilities": 0,
+    "nativeHost": 28,
+    "nativePolicy": 25,
+    "nativeFinalWeb": "reported-in-android-tests",
+    "currentFreshnessLogic": 6
+  },
+  "remainingGates": [
+    "Commercial data provider/authorized AQI and identifiable production service",
+    "Company legal identity/private privacy contact/countries/age/Health declaration",
+    "Production store billing and advertising if integrated",
+    "iOS native, physical-device/TalkBack/performance testing",
+    "Production signing/AAB and actual store review"
+  ]
+}

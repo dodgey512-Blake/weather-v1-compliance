@@ -1,0 +1,8 @@
+{
+  "productVersion": "1.0.0-compliance.1",
+  "visualSystem": "VIS 2.0 compliance supplement",
+  "date": "2026-11-07",
+  "basePath": "/weather-v1-compliance/",
+  "citySearch": "four bundled US cities",
+  "aqi": "not-connected"
+}
