@@ -1,0 +1,32 @@
+{
+  "productName": "V1.0 合规 天气App",
+  "date": "2026-11-07",
+  "capability": "compliance-demo; not formal store approval",
+  "requirementsSha256": "7f8a6abe3d46c84ea467e81963ca5f47d81a387c6011ebb3372dbb0e8851bd50",
+  "files": [
+    {
+      "file": "V1.0 合规 天气App.apk",
+      "bytes": 6550184,
+      "sha256": "c5ad103f6d40750cefc6bf1d9282d34b27a47b99534d78aa2578980abffd408d",
+      "url": "https://dodgey512-blake.github.io/weather-v1-compliance/downloads/V1.0%20%E5%90%88%E8%A7%84%20%E5%A4%A9%E6%B0%94App.apk"
+    },
+    {
+      "file": "V1.0 合规 天气App-AndroidStudio.zip",
+      "bytes": 5128774,
+      "sha256": "08cd0c9e03eae5245a5b10f5eeee7bb10b02e91d4bca1d9494b8c60e60933211",
+      "url": "https://dodgey512-blake.github.io/weather-v1-compliance/downloads/V1.0%20%E5%90%88%E8%A7%84%20%E5%A4%A9%E6%B0%94App-AndroidStudio.zip"
+    },
+    {
+      "file": "V1.0 合规 天气App.zip",
+      "bytes": 16758678,
+      "sha256": "77e684767861c63a9a2f67ab9462140c7eacdb81641d434a161cc55c4fc0e591",
+      "url": "https://dodgey512-blake.github.io/weather-v1-compliance/downloads/V1.0%20%E5%90%88%E8%A7%84%20%E5%A4%A9%E6%B0%94App.zip"
+    }
+  ],
+  "feishu": "https://my.feishu.cn/docx/VIaodnwZRoOaWJxuWO3cm3Iwnbh",
+  "feishuOwnerVerified": true,
+  "feishuSixInlineImagesVerified": true,
+  "feishuAnonymousReaderVerified": true,
+  "nativeTestSigning": "Android Debug",
+  "originalSourcePreserved": true
+}
